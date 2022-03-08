@@ -24,7 +24,7 @@ go get -u -v github.com/The-Eye-Team/Comics-DL
 ## Usage
 ```
 ./Comics-DL --url {URL}
-./Comics-Dl --file {path}
+./Comics-DL --file {path}
 ```
 
 ### Flags
